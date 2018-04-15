@@ -1,0 +1,13 @@
+
+|**********************************************************************;
+* Project           : Path-finding Assessment
+*
+* Program name      : Pathfinding
+*
+* Author            : Siboniso Philani Zungu
+*
+* Date created      : 201804
+*
+* Purpose           : Find the shortetst path from point S to point E
+*
+|**********************************************************************;
